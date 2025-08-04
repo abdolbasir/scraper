@@ -1,0 +1,9 @@
+{
+"editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
+"editor.fontSize": 20,
+"editor.lineHeight": 24,
+"editor.letterSpacing": 0.5,
+"cursor.general.disableHttp2": true,
+"workbench.settings.useSplitJSON": false
+
+}
